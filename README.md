@@ -13,6 +13,9 @@
 ---
 
 ## 🌐 Social and Contact Info
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mrunal-gangurde-b0b32631a/)
+
+---
 
 ## 🎓📚 Education
 
@@ -36,7 +39,6 @@
 - Implemented automation tools for shipment tracking, reducing manual efforts and improving efficiency.
 
 ---
-
 
 ---
 
@@ -89,38 +91,9 @@
 
 ## 📊 GitHub Statistics
 
-![Mrunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunal_gangurde&show_icons=true&theme=radical)
+![Mrunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrunalGangurde&show_icons=true&theme=radical)
 
 
 ⭐️ If you like what you see, [give my profile a star](https://github.com/MrunalGangurde)!
 
 ===================================
-
----
-
-## 🛠️ Skills and Tools
-
-### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks & Libraries  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Tools  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-
-### Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
