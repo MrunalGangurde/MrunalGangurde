@@ -28,7 +28,7 @@ Pillai College of Engineering, Mumbai University (2018–2022)
 ## 💼 Professional Experience  
 
 ### Python Intern → Junior Data Analyst  
-**Learning Finch, Kalyan** | *Feb 2024 – Dec 2024*  
+**Learning Finch, Kalyan** | *Feb 2024 – Jan 2024*  
 - Built backend tools and dashboards using Python and Flask  
 - Automated reports and validation tasks with Excel and SQL  
 - Created Power BI dashboards for business users  
