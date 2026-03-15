@@ -1,105 +1,140 @@
-# 👋 Hi, I'm Mrunal Gangurde  
-🏆 **Python Developer | Data Analyst | Aspiring Backend & QA Engineer**
+# 👋 Hi, I'm Mrunal Gangurde
+**Data Analyst | MSc Data Science @ University of Leicester | Python • SQL • Machine Learning • Data Visualization**
 
-Welcome to my GitHub! I'm a motivated developer with a strong foundation in Python and hands-on experience in data analysis, automation, and backend scripting. I enjoy solving problems, optimizing workflows, and building clean, scalable tools across different domains—from data to web to QA.
+I’m a data enthusiast with experience in **Python-based data analysis, machine learning, and business intelligence dashboards**. I enjoy working with real-world datasets to uncover insights, build predictive models, and create tools that support **data-driven decision making**.
 
----
-
-## 💼 Professional Summary  
-Tech-driven Python professional with experience in automation, backend scripting, and data workflows. Transitioned from a non-IT background in early 2024 and quickly gained practical experience as a Junior Data Analyst at Learning Finch. Proficient in Python, SQL, Flask, and Power BI, and familiar with software testing life cycles. Actively exploring roles in Python development, QA automation, and data engineering.
+My work focuses on **data analysis, predictive modeling, and automation using Python**.
 
 ---
 
-## 🌐 Contact & Social Links  
-- **GitHub:** [MrunalGangurde](https://github.com/MrunalGangurde)  
-- **LinkedIn:** [Mrunal Gangurde](https://www.linkedin.com/in/mrunal-gangurde-b0b32631a/)  
-- **Kaggle:** [Mrunal Gangurde](https://www.kaggle.com/mrunalgangurde)  
-- **HackerRank:** [Mrunal Gangurde](https://www.hackerrank.com/profile/mrunalgangurde22)
+# 💼 Professional Summary
+
+Data Analyst with hands-on experience in **Python, SQL, and data visualization**. Previously worked as a **Junior Data Analyst at Learning Finch**, where I developed dashboards, automated reporting workflows, and performed exploratory data analysis.
+
+Currently pursuing **MSc Data Science at the University of Leicester** and building real-world data science projects including **machine learning models, data pipelines, and analytics dashboards**.
 
 ---
 
-## 🎓 Education  
+# 🌐 Contact & Profiles
+
+- **GitHub:** https://github.com/MrunalGangurde  
+- **LinkedIn:** https://www.linkedin.com/in/mrunal-gangurde-b0b32631a/  
+- **Kaggle:** https://www.kaggle.com/mrunalgangurde  
+- **HackerRank:** https://www.hackerrank.com/profile/mrunalgangurde22  
+
+---
+
+# 🎓 Education
+
+**MSc Data Science**  
+University of Leicester *(2025 – Present)*
+
 **Bachelor of Engineering – Mechanical Engineering**  
-Pillai College of Engineering, Mumbai University (2018–2022)  
-- CGPA: 8.11 / 10
+Pillai College of Engineering, Mumbai University *(2018 – 2022)*  
+CGPA: **8.11 / 10**
 
 ---
 
-## 💼 Professional Experience  
+# 💼 Professional Experience
 
-### Python Intern → Junior Data Analyst  
-**Learning Finch, Kalyan** | *Feb 2024 – Jan 2024*  
-- Built backend tools and dashboards using Python and Flask  
-- Automated reports and validation tasks with Excel and SQL  
-- Created Power BI dashboards for business users  
-- Gained practical exposure to SDLC, STLC, and bug life cycle  
+## Junior Data Analyst  
+**Learning Finch** | Feb 2024 – Jan 2024
 
-### Operations Executive  
-**Econship, Juinagar** | *Nov 2023 – Jan 2024*  
-- Handled client operations, logistics data, and workflow automation  
-
-### Data Analyst Intern  
-**Cadworks (Remote)** | *Jun 2023 – Aug 2023*  
-- Built data pipelines to improve learning platform engagement insights  
+- Performed **data analysis using Python and SQL** to generate business insights  
+- Automated reporting workflows using **Excel and Python scripts**  
+- Built **Power BI dashboards** for business performance monitoring  
+- Conducted **data cleaning and exploratory data analysis** using Pandas and NumPy  
 
 ---
 
-## 🚀 Selected Projects  
+## Operations Executive  
+**Econship** | Nov 2023 – Jan 2024
 
-### 📊 **HireGraph – Resume Matcher & Tracker**  
-- Developed a full-stack web app using **Python, Flask, Pandas**, and web scraping  
-- Enabled users to track job applications and compare resumes against job descriptions  
-- Implemented a smart matching score to measure resume-job fit  
-
-### 📈 **InsightGrid – Automated Business Dashboard**  
-- Built a daily reporting pipeline with **Python, SQL, Excel**, and **Power BI**  
-- Cleaned and transformed raw datasets using Pandas  
-- Designed KPI dashboards to help management monitor performance quickly  
-
-### 💬 **Sidekick – AI-Powered Team Chat Application**  
-- Created a real-time team messaging app using **Flask + Firebase**  
-- Added a smart assistant that summarizes chats and suggests action items  
-- Built group/private chat features for improved team collaboration  
-
-### 🔍 Resume Evaluation Tool (AI-Enhanced)  
-- Built a tool using Python + Gemini AI to score and analyze resumes  
-
-### 📦 Automated Shipment Tracking System  
-- Designed a Python script to classify shipment status and generate Excel reports  
-
-### 🧠 Text Moderation & Sentiment Analysis System  
-- Used NLTK, BeautifulSoup to scrape and analyze news articles  
-
-### 🤖 Spherical Amphibious Robot – *Smart India Hackathon 2022*  
-- National Runner-Up: Built a robot for rescue ops in hazardous environments  
+- Managed shipping operations and logistics documentation  
+- Monitored shipment data and coordinated with stakeholders  
+- Supported operational reporting using **Excel-based tracking systems**
 
 ---
 
-## 🛠️ Skills & Technologies  
+# 🚀 Selected Projects
 
-- **Languages:** Python, SQL, HTML, CSS  
-- **Frameworks/Libraries:** Flask, Django, Pandas, NumPy, BeautifulSoup  
-- **Databases:** MySQL, PostgreSQL, SQLite  
-- **QA & Testing:** SDLC, STLC, Bug Life Cycle, Manual Testing  
-- **Data Visualization:** Power BI, Tableau  
-- **Tools:** GitHub, VS Code, Jupyter, Streamlit  
-- **OS:** Windows
+## 📊 Resume Matcher & Job Tracker
+- Built a resume evaluation tool using **Python, NLP, and machine learning**
+- Matches resumes with job descriptions and calculates a similarity score
+- Helps users improve resume relevance for job applications
 
 ---
 
-## 🎓 Certifications  
-- Python 3.4.3 – IIT Bombay (Spoken Tutorial)  
-- Data Science & ML – Learning Finch  
-- Structuring ML Projects – DeepLearning.AI  
-- IELTS – Band Score: 7.0
+## 📈 InsightGrid – Automated Business Dashboard
+- Developed a **data pipeline for automated reporting** using Python and Excel
+- Cleaned and transformed data using **Pandas**
+- Designed **Power BI dashboards** to visualize KPIs and business performance
 
 ---
 
-## 📊 GitHub Stats  
-![Mrunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrunalGangurde&show_icons=true&theme=radical)  
+## 🧠 HR Attrition Prediction Model
+- Built a **machine learning model to predict employee attrition**
+- Performed EDA, feature engineering, and model evaluation
+- Implemented models using **Scikit-Learn**
+
+---
+
+## 📊 Central Limit Theorem Visualization
+- Created an **interactive Streamlit application** demonstrating CLT
+- Visualizes how sampling distributions approach a normal distribution
+
+---
+
+## 🧠 Text Sentiment Analysis
+- Collected and analyzed news data using **BeautifulSoup and NLTK**
+- Built a sentiment classification pipeline for text analysis
+
+---
+
+## 🤖 Smart India Hackathon – Amphibious Rescue Robot
+**National Runner-Up – Smart India Hackathon 2022**
+
+- Developed a **spherical amphibious robot for rescue operations**
+- Designed for hazardous environments and disaster response
+
+---
+
+# 🛠️ Skills
+
+### Programming
+Python, SQL
+
+### Data Science
+Machine Learning, Exploratory Data Analysis, Statistics, Data Modeling
+
+### Libraries & Tools
+Pandas, NumPy, Scikit-Learn, Matplotlib
+
+### Data Visualization
+Power BI, Tableau, Excel
+
+### Tools & Platforms
+Git, GitHub, Jupyter Notebook, Streamlit, VS Code
+
+---
+
+# 🎓 Certifications
+
+- Python Programming – IIT Bombay (Spoken Tutorial)  
+- Data Science & Machine Learning – Learning Finch  
+- Structuring Machine Learning Projects – DeepLearning.AI  
+- IELTS – Band Score: 7.0  
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrunalGangurde&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrunalGangurde&layout=compact&theme=radical)
 
 ---
 
-⭐️ **Thanks for visiting!**  
-💬 Open to collaborations in Python development, QA automation, and data projects. Let’s connect!
+⭐ **Thanks for visiting my GitHub!**
+
+I’m currently building **data science and machine learning projects** and am open to collaboration on **data analytics, ML models, and data-driven applications**.
